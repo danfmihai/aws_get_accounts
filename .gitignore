@@ -1,0 +1,11 @@
+**.terraform
+.terraform*
+*tfstate*
+*lock..hcl
+*install.sh
+**aws*
+*aws
+*tfvars
+*.conf
+*.backup
+*.plan
